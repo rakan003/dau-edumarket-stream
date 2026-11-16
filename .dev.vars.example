@@ -1,0 +1,3 @@
+# Copy to .dev.vars for local development. Never commit real credentials.
+STREAM_API_KEY=""
+STREAM_ORGANIZATION_ID=""

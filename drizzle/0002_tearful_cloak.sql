@@ -1,0 +1,1 @@
+ALTER TABLE `dau_checkouts` ADD `attempt` integer DEFAULT 1 NOT NULL;

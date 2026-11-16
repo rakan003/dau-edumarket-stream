@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dau-edumarket-stream",
+  "main": "./worker/index.ts",
+  "compatibility_date": "2026-11-16",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "dau-edumarket-staging",
+      // Replace with the ID returned by `npx wrangler d1 create dau-edumarket-staging`.
+      // This placeholder is sufficient for an isolated local database only.
+      "database_id": "00000000-0000-4000-8000-000000000000",
+      "migrations_dir": "./drizzle"
+    }
+  ]
+}

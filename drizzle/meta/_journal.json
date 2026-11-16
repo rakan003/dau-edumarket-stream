@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794827228249,
+      "tag": "0000_talented_the_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794827290367,
+      "tag": "0001_misty_viper",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1794827464630,
+      "tag": "0002_tearful_cloak",
+      "breakpoints": true
+    }
+  ]
+}

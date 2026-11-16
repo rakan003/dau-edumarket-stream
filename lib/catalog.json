@@ -1,0 +1,106 @@
+[
+  {
+    "id": "pediatric-advanced-life-support-pals-instructor",
+    "name": "PEDIATRIC ADVANCED LIFE SUPPORT ( PALS ) ( INSTRUCTOR )",
+    "price": 850.0,
+    "productId": "f5def688-a632-4d18-928d-f15cad1bfae8",
+    "dates": []
+  },
+  {
+    "id": "pediatric-advanced-life-support-pals",
+    "name": "PEDIATRIC ADVANCED LIFE SUPPORT ( PALS ) ( Provider )",
+    "price": 850.0,
+    "productId": "2a7734cf-43b8-46f9-bf25-6fcf474e82a5",
+    "dates": [
+      "03/02/2025",
+      "10/02/2025",
+      "17/02/2025",
+      "24/02/2025",
+      "03/03/2026",
+      "10/03/2026"
+    ]
+  },
+  {
+    "id": "the-neonatal-resuscitation-program-nrp",
+    "name": "The Neonatal Resuscitation Program (NRP)",
+    "price": 700.0,
+    "productId": "8df414f0-5cab-436c-bc5e-ade520087582",
+    "dates": [
+      "17/11/2025",
+      "24/11/2025"
+    ]
+  },
+  {
+    "id": "essential-operative-surgical-skills-course",
+    "name": "essential operative surgical skills course",
+    "price": 1000.0,
+    "productId": "1b49b4c9-ece5-496e-a59a-52cb1b1161cb",
+    "dates": [
+      "28-09-2024 : 29-09-2024 : 30-09-2024"
+    ]
+  },
+  {
+    "id": "basic-life-support-bls-instructor-2",
+    "name": "Basic Life Support (BLS)  (instructor)",
+    "price": 900.0,
+    "productId": "2d18732a-2a0c-4af7-8b01-74dc0abed78c",
+    "dates": [
+      "18/01/2026"
+    ]
+  },
+  {
+    "id": "basic-life-support-bls-provider",
+    "name": "Basic Life Support (BLS)  – (Provider)",
+    "price": 250.0,
+    "productId": "ea56f9e3-2c99-4aab-a370-398c8e4ca51a",
+    "dates": [
+      "25/01/2026",
+      "26/01/2026",
+      "29/01/2026",
+      "02/02/2026",
+      "05/02/2026",
+      "08/02/2026",
+      "09/02/2026",
+      "12/02/2026",
+      "15/02/2026",
+      "19/02/2026",
+      "22/02/2026",
+      "23/02/2026",
+      "26/02/2026"
+    ]
+  },
+  {
+    "id": "advanced-cardiac-life-support-acls-provider",
+    "name": "Advanced Cardiac Life Support (ACLS) – (Provider)",
+    "price": 850.0,
+    "productId": "ca17d938-3edf-48c1-b6b8-07083d3cf346",
+    "dates": [
+      "04/02/2026",
+      "11/02/2026",
+      "18/02/2026",
+      "25/02/2026",
+      "04/03/2026",
+      "11/03/2026",
+      "18/12/2025",
+      "25/03/2026"
+    ]
+  },
+  {
+    "id": "heart-saver-first-aid-hsfa-course-provider",
+    "name": "Heart Saver & First Aid (HSFA) Course   – (Provider)",
+    "price": 500.0,
+    "productId": "5f031054-639e-4ade-9149-432237543c25",
+    "dates": [
+      "04/02/2026"
+    ]
+  },
+  {
+    "id": "first-aid-provider",
+    "name": "First aid – Provider",
+    "price": 250.0,
+    "productId": "a683db4d-1ec5-4d5f-b434-1ea6230032d5",
+    "dates": [
+      "23/11/2025"
+    ]
+  }
+]
